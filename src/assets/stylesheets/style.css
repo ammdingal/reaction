@@ -1,0 +1,49 @@
+.jokes{
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    position: relative;
+    border: 5px solid #209B34;
+    height: 400px;
+    position: fixed;
+    top: 30px;
+}
+
+img, .jokes{
+    display: inline-block;
+}
+
+    h1{
+        background-color: #53C621;
+        color: white;
+        padding: 10px;
+    }
+
+    h2{
+        margin: 10px;
+        color: #209B34;
+    }
+
+    .btns{
+        position: fixed;
+        height: 30px;
+        top: 350px;
+    }
+
+        button{
+            margin: 10px;
+            background-color: transparent;
+            border: none;
+            font-size: 30px;
+            transition: background-color 0.2s ease-in-out;
+        }
+
+        button:hover {
+            background-color: #FF5E11;
+        }
+        
+
+
+
+
+    
